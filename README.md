@@ -1,6 +1,6 @@
 # Create-and-host-and-endpoint-HNGi
 ## Task 1 for HNG's Internship Cohort 10 
-### Title: Create and host and endpoint.
+### Title: Create and host an endpoint.
 
 ## The task Description 
 
