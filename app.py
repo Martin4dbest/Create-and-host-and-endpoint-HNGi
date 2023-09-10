@@ -17,8 +17,8 @@ def get_info():
     utc_time = datetime.datetime.now(pytz.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
 
     # Define GitHub URLs
-    github_file_url = "https://github.com/username/repo/blob/main/file_name.ext"
-    github_repo_url = "https://github.com/username/repo"
+    github_file_url = "https://github.com/Martin4dbest/Create-and-host-and-endpoint-HNGi/blob/main/file_name.ext"
+    github_repo_url = "https://github.com/Martin4dbest/Create-and-host-and-endpoint-HNGi"
 
     # Prepare the response JSON
     response_data = {
