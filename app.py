@@ -13,7 +13,7 @@ def get_info():
     # Get current day of the week
     current_day = datetime.datetime.now(pytz.utc).strftime('%A')
 
-    # Get current UTC time
+    # Get the  current UTC time
     utc_time = datetime.datetime.now(pytz.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
 
     # Define GitHub URLs
