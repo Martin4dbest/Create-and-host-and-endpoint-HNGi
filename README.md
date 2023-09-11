@@ -2,7 +2,7 @@
 ## Task 1 for HNG's Internship Cohort 10 
 ### Title: Create and host an endpoint.
 
-## The task Description 
+## The task Descriptions 
 
 ### Requirements
 
